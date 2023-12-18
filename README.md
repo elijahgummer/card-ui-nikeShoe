@@ -60,3 +60,5 @@ Contributions are welcome! Feel free to open issues or pull requests.
 Feel the sophistication of the Nike Green Shoe Card UI! 🚀👟
 
 Happy coding! 🌟
+<img width="307" alt="Screenshot 2023-12-19 083809" src="https://github.com/elijahgummer/card-ui-nikeShoe/assets/96103526/d0df2fde-408c-4f94-88d3-01d56b9ccf6b">
+<img width="290" alt="Screenshot 2023-12-19 083816" src="https://github.com/elijahgummer/card-ui-nikeShoe/assets/96103526/44b976bc-f49b-4118-a169-f6c4faf3bedc">
